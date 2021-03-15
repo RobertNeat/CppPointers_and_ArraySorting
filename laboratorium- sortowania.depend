@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1615846374 source:c:\users\elitebook\documents\dokumenty w-l-c\# podstawy algorytmiki\#laboratoria\laboratorium 2\15.03.2021 w domu\laboratorium- sortowania\main.cpp
+	<iostream>
+	<cstdlib>
+	<time.h>
+	<windows.h>
+
